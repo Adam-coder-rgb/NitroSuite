@@ -1,4 +1,3 @@
-# NitroSuite
 # Nitro Suite Resources Folder Structure
 
 ## 📁 **Directory Organization**
